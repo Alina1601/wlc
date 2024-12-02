@@ -189,7 +189,7 @@ white-space: normal;
   min-width: 100%;
 }
 .slider-home{
-  margin-left: -1px;
+  background-color: #000;
 }
 .slider-home .slick-dots{
   position: absolute;
