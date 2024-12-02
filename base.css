@@ -1014,10 +1014,10 @@ input:focus-within , textarea:focus-within  {
 .content-section, .sip-content, .questions, .price-section {
     padding: 44px 26px;
 }
-h2.home-section__title{
+.home .home-section__title{
    padding-bottom: 3px;
-   font-size: 16px;
-   line-height: 16px;
+   font-size: 20px;
+   line-height: 24px;
    letter-spacing: 0;
 }
 .home-section__block p{
