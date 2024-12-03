@@ -1087,6 +1087,9 @@ input:focus-within , textarea:focus-within  {
 .sip-content__inner {
     margin-top: 0;
 }
+.language-switcher.show{
+  background-color: var(--dark);
+}
 
 }
 
