@@ -1090,6 +1090,9 @@ input:focus-within , textarea:focus-within  {
 .language-switcher.show{
   background-color: var(--dark);
 }
+.sidebar-menu__nav li:last-child {
+    padding-bottom: 8px;
+}
 
 }
 
@@ -1275,7 +1278,7 @@ grid-template-columns: repeat(1, 1fr);
 }
 #sticky {
   top: -61px;
-  left: -15px;
+  left: -20px;
 }
 }
 @media (max-width: 575px){
