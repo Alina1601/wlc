@@ -1029,7 +1029,7 @@ input:focus-within , textarea:focus-within  {
 }
 #sticky {
   position: absolute;
-  top: -61px;
+  top: -71px;
   right: auto;
   left: 0;
 }
@@ -1272,6 +1272,10 @@ grid-template-columns: repeat(1, 1fr);
   -webkit-transform: rotate(180deg);
       -ms-transform: rotate(180deg);
           transform: rotate(180deg);
+}
+#sticky {
+  top: -61px;
+  left: -15px;
 }
 }
 @media (max-width: 575px){
